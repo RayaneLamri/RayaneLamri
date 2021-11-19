@@ -10,6 +10,6 @@ In other words I'm here to dig PHP until my shovel breaks and then keep digging.
 How do I proceed to do so ?
 
 * Building projects made of primary features (Authentification, CRUD, Cookies, Authorization, ...)
-* Practicing abstraction, polymorphism and deep my understanding OOP
+* Deepen my understanding of OOP principles, design patterns and frameworks
 * Enhance my works with PHP Standard Recommendation, PHPUnit, Composer
 * Learning PHP Frameworks, Laravel at the moment
