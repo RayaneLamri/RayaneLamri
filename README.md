@@ -11,5 +11,5 @@ How do I proceed to do so ?
 
 * Building projects made of primary features (Authentification, CRUD, Cookies, Authorization, ...)
 * Deepen my understanding of OOP principles, design patterns and frameworks
-* Enhance my works with PHP Standard Recommendation, PHPUnit, Composer
+* Enhance my works with PHP Standard Recommendation, Composer
 * Learning PHP Frameworks, Laravel at the moment
