@@ -7,7 +7,12 @@ So far my journey through backend taugh me how fundamental it is to locate mysel
 
 How do I proceed to do so ?
 
-* Building projects made of primary features (Authentification, CRUD, Cookies, Authorization, ...)
-* Deepen my understanding of OOP principles, design patterns and frameworks
-* Enhance my works with PHP Standard Recommendation, Composer
-* Learning PHP Frameworks, Laravel at the moment
+* Building projects made of primary features
+  - Authentification
+  - Authorization
+  - CRUD
+  - Caching
+  - Cookies
+* Deepen my understanding of OOP principles and of their conversion in design patterns 
+* Enhance my works with the help of libraries, standard recommendations
+* Mastering frameworks, Laravel at the moment
